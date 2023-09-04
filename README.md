@@ -16,6 +16,7 @@ An intensive approach to Machine Learning, Deep Learning is inspired by the work
 **What is Keras?**
 
 Keras is an open-source neural-network library written in Python. It is a high-level API and can run on top of TensorFlow, CNTK, and Theano. Keras is all about enabling fast experimentation and prototyping while running seamlessly on CPU and GPU. It is user-friendly, modular, and extensible.
+
 **Summary**
 
 In this project in python, we learned to build a breast cancer classifier on the IDC dataset (with histology images for Invasive Ductal Carcinoma) and created the network CancerNet for the same. We used Keras to implement the same. Hope you enjoyed this Python project.
